@@ -40,4 +40,3 @@ if __name__ == '__main__':
         try: run_spider()
         except Exception as e: print(f'Unexpected exception occurred {e}')
         time.sleep(5)
-
